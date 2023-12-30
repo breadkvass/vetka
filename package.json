@@ -1,5 +1,5 @@
 {
-  "name": "tattooistanyamak",
+  "name": "vetkacoffee",
   "version": "1.0.0",
   "description": "Данный проект содержит лендинг  клуба \"В помощь маме\" гинеколога Оксаны Алимовой. Лендинг разработан с использованием html, css и с учётом метолодогии БЭМ.",
   "main": "index.js",
@@ -404,5 +404,13 @@
     "svg-inline-loader": "^0.8.2",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/breadkvass/vetka.git"
+  },
+  "bugs": {
+    "url": "https://github.com/breadkvass/vetka/issues"
+  },
+  "homepage": "https://github.com/breadkvass/vetka#readme"
 }
