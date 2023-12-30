@@ -1,0 +1,9 @@
+.header__link-bckgr {
+    background-color: #D0E2D1;
+    position: absolute;
+    width: calc(100% + 12px);
+    top: 15px;
+    right: -6px;
+    height: 20px;
+    z-index: -1;
+}
