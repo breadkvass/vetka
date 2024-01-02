@@ -4,9 +4,20 @@
 
 @import url(./blocks/page/page.css);
 
+@import url(./blocks/link-bckrg/link-bckrg.css);
+@import url(./blocks/link-bckrg/link-bckrg_header.css);
+@import url(./blocks/link-bckrg/link-bckrg_main.css);
+
 @import url(./blocks/header/header.css);
-@import url(./blocks/header/__link-bckgr/header__link-bckgr.css);
 @import url(./blocks/header/__link-name/header__link-name.css);
 @import url(./blocks/header/__link/header__link.css);
 @import url(./blocks/header/__links/header__links.css);
 @import url(./blocks/header/__logo/header__logo.css);
+
+@import url(./blocks/main/main.css);
+@import url(./blocks/main/__images/main__images.css);
+@import url(./blocks/main/__img/main__img.css);
+@import url(./blocks/main/__link/main__link.css);
+@import url(./blocks/main/__link-name/main__link-name.css);
+@import url(./blocks/main/__img/main__img_1.css);
+@import url(./blocks/main/__img/main__img_2.css);

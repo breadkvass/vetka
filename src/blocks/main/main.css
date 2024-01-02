@@ -1,0 +1,9 @@
+.main {
+    padding: 70px 70px 140px 70px;
+    background-image: url(../../images/main-bckgr.png);
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+    align-items: center;
+}

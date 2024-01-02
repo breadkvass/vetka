@@ -10,6 +10,11 @@ a {
     cursor: pointer;
 }
 
+main {
+    padding-top: 20px;
+
+}
+
 .page {
     padding-top: 15px;
     width: 1024px;
