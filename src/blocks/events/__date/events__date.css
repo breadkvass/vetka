@@ -1,0 +1,11 @@
+.events__date {
+    position: absolute;
+    width: 360px;
+    height: 460px;
+    background-color: rgba(0, 0, 0, 0.50);
+    font-size: 50px;
+    color: white;
+    padding: 20px;
+    margin: 0;
+    -webkit-text-stroke: 0.5px white;
+}

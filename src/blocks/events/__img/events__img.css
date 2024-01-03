@@ -1,0 +1,7 @@
+.events__img {
+    width: 400px;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

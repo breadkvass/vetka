@@ -1,0 +1,7 @@
+.button_book {
+    margin-top: 20px;
+    margin-right: 30px;
+    font-size: 30px;
+    position: relative;
+    z-index: 1;
+}

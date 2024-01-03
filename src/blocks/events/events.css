@@ -1,0 +1,8 @@
+.events {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -20px;
+    padding: 0 40px 50px 40px;
+    align-items: center;
+}

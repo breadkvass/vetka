@@ -1,0 +1,7 @@
+.button {
+    border: 0;
+    background: transparent;
+    position: relative;
+    align-self: flex-end;
+    cursor: pointer;
+}
