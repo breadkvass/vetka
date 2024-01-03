@@ -1,0 +1,5 @@
+.section-title {
+    position: relative;
+    z-index: 1;
+    width: max-content;
+}

@@ -1,0 +1,7 @@
+.link-bckgr_about {
+    top: 30px;
+    left: -6px;
+    height: 40px;
+    z-index: 0;
+    width: calc(100% + 100px);
+}

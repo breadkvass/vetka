@@ -4,9 +4,13 @@
 
 @import url(./blocks/page/page.css);
 
+@import url(./blocks/section-title/section-title.css);
+@import url(./blocks/section-title/__name/section-title__name.css);
+
 @import url(./blocks/link-bckrg/link-bckrg.css);
 @import url(./blocks/link-bckrg/link-bckrg_header.css);
 @import url(./blocks/link-bckrg/link-bckrg_main.css);
+@import url(./blocks/link-bckrg/link-bckgr_about.css);
 
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__link-name/header__link-name.css);
@@ -21,3 +25,21 @@
 @import url(./blocks/main/__link-name/main__link-name.css);
 @import url(./blocks/main/__img/main__img_1.css);
 @import url(./blocks/main/__img/main__img_2.css);
+
+@import url(./blocks/about/about.css);
+@import url(./blocks/about/__column/about__column.css);
+@import url(./blocks/about/__column/about__column_left.css);
+@import url(./blocks/about/__column/about__column_right.css);
+@import url(./blocks/about/__content/about__content.css);
+@import url(./blocks/about/__image-bckgr/about__image-bckgr.css);
+@import url(./blocks/about/__image-bckgr/about__image-bckgr_left.css);
+@import url(./blocks/about/__image-bckgr/about__image-bckgr_right.css);
+@import url(./blocks/about/__image-container/about__image-container.css);
+@import url(./blocks/about/__image-container/about__image-container_right.css);
+@import url(./blocks/about/__image-container/about__image-container_left.css);
+@import url(./blocks/about/__text/about__text.css);
+@import url(./blocks/about/__text/about__text_center.css);
+@import url(./blocks/about/__text/about__text_left.css);
+@import url(./blocks/about/__text/about__text_center.css);
+@import url(./blocks/about/__text/about__text_right.css);
+@import url(./blocks/about/__image/about__image.css);

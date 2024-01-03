@@ -2,4 +2,5 @@
     top: 17px;
     right: -6px;
     height: 30px;
+    width: calc(100% + 12px);
 }
