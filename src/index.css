@@ -6,11 +6,13 @@
 
 @import url(./blocks/section-title/section-title.css);
 @import url(./blocks/section-title/__name/section-title__name.css);
+@import url(./blocks/section-title/__name/section-title__name_menu.css);
 
 @import url(./blocks/link-bckrg/link-bckrg.css);
 @import url(./blocks/link-bckrg/link-bckrg_header.css);
 @import url(./blocks/link-bckrg/link-bckrg_main.css);
 @import url(./blocks/link-bckrg/link-bckgr_about.css);
+@import url(./blocks/link-bckrg/link-bckgr_menu.css);
 
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__link-name/header__link-name.css);
@@ -43,3 +45,13 @@
 @import url(./blocks/about/__text/about__text_center.css);
 @import url(./blocks/about/__text/about__text_right.css);
 @import url(./blocks/about/__image/about__image.css);
+
+@import url(./blocks/menu/menu.css);
+@import url(./blocks/menu/__container/menu__container.css);
+@import url(./blocks/menu/__images-bckgr/menu__images-bckgr.css);
+@import url(./blocks/menu/__images/menu__images.css);
+@import url(./blocks/menu/__img/menu__img.css);
+@import url(./blocks/menu/__menu-img/menu__menu-img.css);
+@import url(./blocks/menu/__text/menu__text.css);
+@import url(./blocks/menu/__text/menu__text_call.css);
+@import url(./blocks/menu/__text/menu__text_desc.css);
