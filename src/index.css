@@ -6,6 +6,7 @@
 
 @import url(./blocks/button/button.css);
 @import url(./blocks/button/button_book.css);
+@import url(./blocks/button/button_form.css);
 
 @import url(./blocks/section-title/section-title.css);
 @import url(./blocks/section-title/section-title_events.css);
@@ -19,6 +20,7 @@
 @import url(./blocks/link-bckrg/link-bckgr_menu.css);
 @import url(./blocks/link-bckrg/link-bckgr_events.css);
 @import url(./blocks/link-bckrg/link-bckgr_button.css);
+@import url(./blocks/link-bckrg/link-bckgr_form-button.css);
 
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__link-name/header__link-name.css);
@@ -69,3 +71,9 @@
 @import url(./blocks/events/__info/events__info_price.css);
 @import url(./blocks/events/__list/events__list.css);
 @import url(./blocks/events/__img/events__img.css);
+@import url(./blocks/events/__privat/events__privat.css);
+
+@import url(./blocks/form/form.css);
+@import url(./blocks/form/__row/form__row.css);
+@import url(./blocks/form/__name/form__name.css);
+@import url(./blocks/form/__input/form__input.css);

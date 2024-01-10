@@ -1,0 +1,6 @@
+.link-bckgr_form-button {
+    top: 20px;
+    height: 20px;
+    z-index: -1;
+    width: calc(100% + 16px);
+}
