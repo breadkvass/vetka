@@ -1,0 +1,8 @@
+.contacts__link {
+    text-decoration-line: underline;
+    cursor: pointer;
+}
+
+.contacts__link:hover {
+    text-decoration-line: none;
+}

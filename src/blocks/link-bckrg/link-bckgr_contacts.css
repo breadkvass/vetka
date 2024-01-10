@@ -1,0 +1,7 @@
+.link-bckgr_contacts {
+    top: 30px;
+    left: -6px;
+    height: 30px;
+    z-index: -1;
+    width: calc(100% + 100px);
+}

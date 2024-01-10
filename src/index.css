@@ -9,7 +9,7 @@
 @import url(./blocks/button/button_form.css);
 
 @import url(./blocks/section-title/section-title.css);
-@import url(./blocks/section-title/section-title_events.css);
+@import url(./blocks/section-title/section-title_left.css);
 @import url(./blocks/section-title/__name/section-title__name.css);
 @import url(./blocks/section-title/__name/section-title__name_menu.css);
 
@@ -19,6 +19,7 @@
 @import url(./blocks/link-bckrg/link-bckgr_about.css);
 @import url(./blocks/link-bckrg/link-bckgr_menu.css);
 @import url(./blocks/link-bckrg/link-bckgr_events.css);
+@import url(./blocks/link-bckrg/link-bckgr_contacts.css);
 @import url(./blocks/link-bckrg/link-bckgr_button.css);
 @import url(./blocks/link-bckrg/link-bckgr_form-button.css);
 
@@ -77,3 +78,10 @@
 @import url(./blocks/form/__row/form__row.css);
 @import url(./blocks/form/__name/form__name.css);
 @import url(./blocks/form/__input/form__input.css);
+
+@import url(./blocks/contacts/contacts.css);
+@import url(./blocks/contacts/__columns/contacts__columns.css);
+@import url(./blocks/contacts/__list/contacts__list.css);
+@import url(./blocks/contacts/__li/contacts__li.css);
+@import url(./blocks/contacts/__link/contacts__link.css);
+@import url(./blocks/contacts/__map/contacts__map.css);
