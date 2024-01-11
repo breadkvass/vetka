@@ -6,3 +6,10 @@
     top: -100px;
     padding: 0 40px 50px 40px;
 }
+
+@media screen and (max-width: 767px) {
+    .about {
+        top: 0;
+        padding: 0;
+    }
+}

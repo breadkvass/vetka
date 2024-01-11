@@ -2,3 +2,10 @@
     align-items: start;
     gap: 70px;
 }
+
+@media screen and (max-width: 767px) {
+    .about__column_left {
+        align-items: center;
+        gap: 40px;
+    }
+}
