@@ -5,3 +5,10 @@
     position: relative;
     z-index: 1;
 }
+
+@media screen and (max-width: 767px) {
+    .button_book {
+        font-size: 20px;
+        
+    }
+}
