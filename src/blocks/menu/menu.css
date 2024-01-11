@@ -6,3 +6,10 @@
     top: -60px;
     padding: 0 40px;
 }
+
+@media screen and (max-width: 767px) {
+    .menu {
+        top: 0;
+        padding: 20px 20px;
+    }
+}

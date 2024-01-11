@@ -5,5 +5,13 @@
     width: 800px;
     height: 200px;
     top: 130px;
-    right: -70px;
+    left: -72px;
+}
+
+@media screen and (max-width: 767px) {
+    .menu__images-bckgr {
+        font-size: 30px;
+        width: 300px;
+        height: 500px;
+    }
 }
