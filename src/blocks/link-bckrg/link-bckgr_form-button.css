@@ -4,3 +4,12 @@
     z-index: -1;
     width: calc(100% + 16px);
 }
+
+@media screen and (max-width: 767px) {
+    .link-bckgr_form-button {
+        height: 16px;
+        top: 14px;
+        left: -2px;
+        width: calc(100% + 12px);
+    }
+}

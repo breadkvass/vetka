@@ -5,3 +5,12 @@
     z-index: -1;
     width: calc(100% + 100px);
 }
+
+@media screen and (max-width: 767px) {
+    .link-bckgr_contacts {
+        top: 15px;
+        left: -10px;
+        height: 20px;
+        width: calc(100% + 20px);
+    }
+}

@@ -5,3 +5,10 @@
     z-index: -1;
     width: calc(100% + 16px);
 }
+
+@media screen and (max-width: 767px) {
+    .link-bckgr_button {
+        height: 16px;
+        top: 10px;
+    }
+}
