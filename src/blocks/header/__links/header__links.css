@@ -6,3 +6,11 @@
     gap: 40px;
     margin: 0;
 }
+
+@media screen and (max-width: 767px) {
+    .header__links {
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+    }
+}
