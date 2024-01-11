@@ -1,5 +1,13 @@
 .contacts__li {
     margin: 0;
     padding: 0;
-    font-size: 28px;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 767px) {
+    .contacts__li{
+        font-size: 16px;
+        text-align: center;
+        width: 100%;
+    }
 }

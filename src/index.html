@@ -42,7 +42,7 @@
 				<img class="main__img main__img_1" src="<%=require('./images/main-img-1.png')%>">
 				<img class="main__img main__img_2" src="<%=require('./images/main-img-2.png')%>">
 			</div>
-			<a class="main__link" href="#">
+			<a class="main__link" href="#menu">
 				<div class="link-bckgr link-bckgr_main"></div>
 				<p class="main__link-name">посмотреть меню</p>
 			</a>
@@ -92,7 +92,10 @@
 					<img class="menu__img" src="<%=require('./images/poke.png')%>">
 					<img class="menu__img" src="<%=require('./images/cezar.png')%>">
 				</div>
-				<p class="menu__text menu__text_call">Позвоните нам ( 8 999 999 99 99 ) или напишите в телеграм,
+				<p class="menu__text menu__text_call">Позвоните нам (
+					<a href="tel:+79935945608">8&nbsp;993&nbsp;594&nbsp;56&nbsp;08</a>) 
+					или напишите в <a class="contacts__link" href="https://t.me/vetkaadmin">telegram</a> 
+					или <a class="contacts__link" href="https://wa.me/79935945608">What'sApp</a>,
 					мы с радостью подскажем актуальное наличие блюд.
 				</p>
 			</div>
@@ -211,7 +214,7 @@
 					</button>
 				</li>
 			</ul>
-			<p class="events__privat">В Ветке вы можете провести своё мероприятие.<br>Пожалуйста, заполните эту форму для уточнения деталей.</p>
+			<p class="events__private">В Ветке вы можете провести своё мероприятие.<br>Пожалуйста, заполните эту форму для уточнения деталей.</p>
 			<form class="form" id="form">
 				<div class="form__row">
 					<label class="form__name" for="name">ваше имя</label>
@@ -244,8 +247,9 @@
 						у 1-го подъезда
 					</li>
 					<li class="contacts__li">8 999 999 99 99</li>
-					<li class="contacts__li"><a class="contacts__link">телеграм</a> для связи</li>
-					<li class="contacts__li">наш <a class="contacts__link">телеграм-канал</a></li>
+					<li class="contacts__li"><a class="contacts__link" href="https://wa.me/79935945608">What'sApp</a></li>
+					<li class="contacts__li"><a class="contacts__link" href="https://t.me/vetkaadmin">telegram</a> для связи</li>
+					<li class="contacts__li"><a class="contacts__link" href="https://t.me/vetka_coffeeshop">telegram-канал</a></li>
 				</ul>
 				<iframe class="contacts__map" src="https://yandex.ru/map-widget/v1/?um=constructor%3A67ebf1333195d3f5e002286b65633d24e94458cb96cc5a876919e370df04515c&amp;source=constructor"></iframe>
 			</div>

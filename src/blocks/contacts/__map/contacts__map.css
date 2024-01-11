@@ -1,5 +1,5 @@
 .contacts__map {
-    width: 500px;
+    width: 400px;
     aspect-ratio: 1 / 1;
     border: solid 20px white;
     margin-top: 40px;
@@ -7,7 +7,7 @@
 
 @media screen and (max-width: 767px) {
     .contacts__map {
-        width: 300px;
+        width: calc(100% - 40px);
         margin: 0 auto;
     }
 }

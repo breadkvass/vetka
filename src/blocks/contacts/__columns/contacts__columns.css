@@ -9,5 +9,6 @@
     .contacts__columns {
         flex-direction: column;
         justify-content: flex-start;
+        gap: 20px;
     }
 }
