@@ -72,7 +72,7 @@
 @import url(./blocks/events/__info/events__info_price.css);
 @import url(./blocks/events/__list/events__list.css);
 @import url(./blocks/events/__img/events__img.css);
-@import url(./blocks/events/__privat/events__privat.css);
+@import url(./blocks/events/__private/events__private.css);
 
 @import url(./blocks/form/form.css);
 @import url(./blocks/form/__row/form__row.css);

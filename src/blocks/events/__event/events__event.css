@@ -8,3 +8,9 @@
     padding-top: 20px;
     width: 440px;
 }
+
+@media screen and (max-width: 767px) {
+    .events__event {
+        width: 280px;
+    }
+}
