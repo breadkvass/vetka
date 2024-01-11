@@ -2,3 +2,9 @@
     position: relative;
     width: 280px;
 }
+
+@media screen and (max-width: 767px) {
+    .main__link {
+        width: max-content;
+    }
+}
