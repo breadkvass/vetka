@@ -5,3 +5,9 @@
     margin: 0;
     font-weight: 300;
 }
+
+@media screen and (max-width: 767px) {
+    .section-title__name {
+        font-size: 30px;
+    }
+}

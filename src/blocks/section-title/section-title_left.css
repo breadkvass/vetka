@@ -1,3 +1,9 @@
 .section-title_left {
     align-self: flex-start;
 }
+
+@media screen and (max-width: 767px) {
+    .section-title_left {
+        align-self: center;
+    }
+}
