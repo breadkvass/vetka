@@ -5,3 +5,11 @@
     left: 150px;
     z-index: 1;
 }
+
+@media screen and (max-width: 767px) {
+    .main__img_2 {
+        width: 150px;
+        top: 100px;
+        left: 100px;
+    }
+}
