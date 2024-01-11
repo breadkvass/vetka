@@ -1,3 +1,11 @@
 .about__text_left {
     padding: 90px 0 45px 0;
 }
+
+
+@media screen and (max-width: 767px) {
+    .about__text_left {
+        padding: 20px 0 0 0;
+        text-align: center;
+    }
+}
