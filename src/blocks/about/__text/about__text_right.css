@@ -2,10 +2,8 @@
     text-align: right;
 }
 
-
 @media screen and (max-width: 767px) {
     .about__text_right {
         padding-top: 20px;
-        text-align: center;
     }
 }
