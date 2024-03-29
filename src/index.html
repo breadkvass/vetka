@@ -12,8 +12,18 @@
 	<meta name="copyright" content="ИП Горяинова Мария Анатольевна" />
 	<link rel="stylesheet" type="text/css" src="index.css">
 	<title>Ветка кофейня</title>
+	<script>
+		window.onload = () => {
+			const preloader = document.getElementById('preloader');
+			preloader.classList.remove('preloader_open');
+			preloader.classList.add('preloader_closed');
+		}
+	</script>
 </head>
 <body class="page">
+	<div id='preloader' class="preloader_open">
+		<div class="spinner"></div>
+	</div>
 	<header class="header">
 		<img class="header__logo" src="<%=require('./images/logo.png')%>">
 		<ul class="header__links">
