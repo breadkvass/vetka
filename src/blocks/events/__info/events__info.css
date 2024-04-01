@@ -1,5 +1,5 @@
 .events__info {
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
     margin: 0;
     padding: 0 20px;
@@ -7,6 +7,6 @@
 
 @media screen and (max-width: 767px) {
     .events__info {
-        font-size: 20px;
+        font-size: 15px;
     }
 }

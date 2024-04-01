@@ -6,11 +6,11 @@
     background-color: white;
     padding-bottom: 30px;
     padding-top: 20px;
-    width: 440px;
+    width: 300px;
 }
 
 @media screen and (max-width: 767px) {
     .events__event {
-        width: 280px;
+        width: 200px;
     }
 }

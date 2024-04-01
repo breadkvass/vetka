@@ -1,5 +1,5 @@
 .events__img {
-    width: 400px;
+    width: 280px;
     aspect-ratio: 4 / 5;
     object-fit: cover;
     margin-top: 20px;
@@ -8,6 +8,6 @@
 
 @media screen and (max-width: 767px) {
     .events__img {
-        width: 250px;
+        width: 180px;
     }
 }
